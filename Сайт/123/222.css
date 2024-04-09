@@ -1,0 +1,34 @@
+#typing-effect {
+    font-size: 24px; /* Размер шрифта */
+    font-family: Arial, sans-serif; /* Шрифт */
+    color: #FFF; /* Цвет текста */
+    margin-right: 750px;
+    padding: 10%;
+
+}
+
+body {
+    background-image: url('123.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a.vk-link {
+    display: inline-block; /* Позволяет элементу быть блочным и устанавливать его размеры */
+    text-decoration: none; /* Убирает подчеркивание ссылки */
+}
+
+a.vk-link img {
+    width: 30px; /* Ширина изображения */
+    height: 30px; /* Высота изображения */
+}
+a.vk-link {
+    position: fixed; /* Зафиксировать элемент */
+    bottom: 50px; /* Отступ сверху */
+    left: 50px; /* Отступ справа */
+}
+p {
+    padding-left: 500px;
+    font-size: 24px; /* Размер шрифта */
+    font-family: Arial, sans-serif; /* Шрифт */
+    color: #FFF;
+}
